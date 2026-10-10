@@ -1,2 +1,2 @@
 hello how are you
-feature 1 changes
+feature 1 changes(feature1)
